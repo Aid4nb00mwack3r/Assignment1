@@ -33,3 +33,13 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
+
+BANNER = """
+    |     |     |
+   | |        __|
+  |   |   |  |  |  .--.  |.--.
+ |-----|  | |   | |    | |    |
+|       | |  |__|  |__|| |    |
+"""
+print(BANNER)
+print("Made by Aidan Demmer")
